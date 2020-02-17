@@ -107,3 +107,62 @@ background-position: center;
   padding: 0px;
   margin: 0px;
 }
+
+.chairman {
+  /*  padding-left: 116px;
+    padding-right: 116px; */
+}
+.chairman a{
+  text-decoration: none;
+}
+.chairman a:hover{
+    text-decoration: none;
+    transition: 1.2s;
+}
+p{
+  margin-bottom: 0px;
+}
+.chairman img {
+    margin-bottom: 19px;
+    width: 180px;
+    height: 165px;
+    border-radius: 50%;
+}
+.chairmansir{
+  text-decoration: none;
+  color: #a51c30;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    padding-top: 15px;
+    font-size: 1.5em;
+}
+
+.busite{
+  text-decoration: none;
+  color: green;
+     font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 1.5em;
+
+}
+
+.messagepart h2{
+    color: #a51c30;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 2.4em;
+    padding: 15px 0px;
+    margin-top: 10px;
+}
+.messagepart p{
+  font-size: 18px;
+  text-align: justify;
+}
+
+.deptcse {
+    background: #18572A;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,.15),0 3px 3px rgba(0,0,0,.15);
+}
