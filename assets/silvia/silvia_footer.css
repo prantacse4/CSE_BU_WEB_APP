@@ -1,0 +1,109 @@
+.c-fluid {
+	
+	background: #18572A;
+	margin:0;
+	padding:15px;
+}
+.fa-facebook-f {
+  color: #18572A;
+  background:white;
+  height:35px;
+  width:35px;
+  padding:8px;
+  margin:10px;
+ 
+  border-radius:4px;
+  font-size:30px;
+}
+.fa-twitter{
+	color:white;
+  background:#18572A;
+  height:20px;
+  width:20px;
+  padding:8px;
+  margin:10px;
+  margin-left:20px;
+  margin-right:20px;
+  font-size:40px;
+}
+.fa-youtube{
+		 color:white;
+  background:#18572A;
+  height:20px;
+  width:20px;
+  padding:8px;
+  margin:10px;
+   margin-left:20px;
+  font-size:40px;
+	
+}
+.hp{
+	color:white;
+
+	padding-top:10px;
+
+}
+.pc{
+	margin-left:100px;
+	padding-top:50px;
+	
+}
+.ic{
+	margin-left:95px;
+	padding-top:10px;
+	
+}
+a.lk{
+	text-decoration:none;
+}
+.txt-left{
+	margin-left:40px;
+	margin-top:20px;
+	color:white;
+	display:block;
+	
+}
+
+.tx{
+	color:white;
+	margin-left:20px;
+	padding:10px;
+	
+}
+.nl{
+	color:white;
+	font-size:18px;
+	padding-left:20px;
+	padding-top:5px;
+	margin-left:20px;	
+}
+.nl:hover{
+	color:red;
+}
+ul.links>li{
+	position:relative;
+	text-decoration:none;
+	display:inline-block;
+	padding:0px 15px;
+	margin-top:20px;
+	border-right:2px solid #305039;
+}
+ul.links>li>a{
+	color:white;
+}
+ul.links>li>a:hover{
+	color:red;
+	text-decoration:none;
+}
+
+
+.bd{
+	box-shadow: 3px 3px 3px rgba(0, 100, 0, .4);
+	position:relative;
+	border-top:2px solid #165027;
+	border-bottom:2px solid #18572A;
+	background:#165027;
+}
+.imagefooter {
+    margin-top: 106px;
+}

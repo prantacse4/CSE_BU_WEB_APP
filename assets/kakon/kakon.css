@@ -1,8 +1,10 @@
 .divaction {
-    background: white;
+    background:#fdf5ed;
     color: black;
     margin: 11px;
     margin-top: 0px;
     padding-top: 15px;
     max-width: 31.8333%;
+    border-radius: 5px;
+    box-shadow: 1px rgba(0.11,0,0,0);
 }

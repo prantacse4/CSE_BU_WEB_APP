@@ -1,0 +1,53 @@
+.cart_pic{
+	background:white;
+	min-height:200px;
+	position:relative;
+	box-shadow: 4px 4px 4px 4px rgba(0, 100, 0, .4);
+	margin-top:30px;
+	border-top:1px solid white;
+}
+.def_mar1{
+	margin-left:80px;
+	padding-bottom:5px;
+	min-height:350px;
+	height:350px;
+}
+.def_mar{
+	margin-left:50px;
+}
+.deper-header{
+	text-align:center;
+	margin-top:10px;
+	padding-top:15px;
+	padding-bottom:5px;
+}
+.dept-header{
+	padding:10px;
+	background:#5c936c;
+	color:white;
+}
+.dept-width{
+}
+.dept-page{
+	min-width:1200px;
+	min-height:1280px;
+	margin-bottom:10px;
+	
+}
+.deptpage-img{
+	width:100%;
+	height:200px;
+	border-radius:500px;
+}
+.deptprofi-text{
+	font-family:Railway,sans-serif;
+	font-weight:bold;
+	width:100%;
+	margin-bottom:0px;
+}
+#content-deppage{
+	margin:25px;
+}
+#content-deptmain>li{
+	padding-top:15px;
+}
